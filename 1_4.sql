@@ -1,0 +1,4 @@
+/*
+Write a SQL query that returns the different genres of 
+all the movies and average runtime of all genres.
+*/
